@@ -1,0 +1,49 @@
+ul{
+    /*background-color: coral;*/
+    background: url("download\ \(1\).jpeg")center repeat-x;
+ 
+    list-style-type: none;
+    /*border: 5px solid;
+     border-color: blueviolet;*/
+   border-left: 10px solid;
+   border-color:red;
+   border-bottom-left-radius:50px ;
+   border-top-right-radius: 20px;
+}
+li{
+    font-size: 40px;
+    color: brown;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+table{
+    width: 500px;
+    height: 650px;
+    text-align: center;
+    background-image: url("download\ \(1\).jpeg");
+    background-repeat:no-repeat;
+    background-position: center;
+}
+ td{
+color: blue;
+}
+th{
+    font-size: 30px;
+    color: aquamarine;
+    border: 5px solid black;
+}
+table,th,td{
+    border: 3px solid red;
+}
+body{
+   /* background-color: blueviolet;*/
+  /* background-image: url("download\ \(1\).jpeg");*/
+   background-repeat:no-repeat;
+   /*background-size:cover;*/
+   background-position: right 
+
+  
+
+
+/*background:url("download\ \(1\).jpeg")repeat-y;*/
+}
